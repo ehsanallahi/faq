@@ -1,0 +1,39 @@
+.head-section{
+    height: 700px;
+    background-color: #3C5BE5;
+}
+.q-image{
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    left: 700px;
+    bottom: 200px;
+}
+.install-box{
+    background-color:#fff;
+    position: relative;
+    bottom: 50px;
+    height: 200px;
+    border-radius: 20px;
+}
+.container-fluid{
+    background-color: #000;
+}
+.navbar{
+    background-color: #3C5BE5;
+}
+.faq-text{
+    padding-top: 200px;
+    padding-left: 50px;
+    color: #fff;
+}
+.btn-primary{
+    background-color: #3C5BE5;
+    border-radius: 20px;
+}
+ul{
+    list-style:none;
+}
+ul li{
+    padding-top: 10px;
+}
